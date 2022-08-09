@@ -6,18 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "keywords": [],
   "author": "afauzi",
   "contributors": [
     {
       "name": "akhmad fauzi",
-      "email" : "akhmadfauzi@gmail.com"
+      "email": "akhmadfauzi@gmail.com"
     },
     {
       "name": "fiqih",
-      "email" : "fiqih@gmail.com"
+      "email": "fiqih@gmail.com"
     }
-
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "library-physics-vanos": "^1.0.1"
+  }
 }
