@@ -1,0 +1,23 @@
+{
+  "name": "library-afauzi",
+  "version": "1.0.0",
+  "description": "learn-npm-create-sample-library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "afauzi",
+  "contributors": [
+    {
+      "name": "akhmad fauzi",
+      "email" : "akhmadfauzi@gmail.com"
+    },
+    {
+      "name": "fiqih",
+      "email" : "fiqih@gmail.com"
+    }
+
+  ],
+  "license": "ISC"
+}
