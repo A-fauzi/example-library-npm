@@ -25,4 +25,4 @@ const sayHello = (name, age) => {
     console.log(`hello ${name}`)
 }
 
-module.exports = { generateNIK };
+module.exports = { generateNIK, sayHello };
