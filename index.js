@@ -21,4 +21,8 @@ const generateNIK = (gender, dob, provinceId, regencyId, districtId) => {
     return nik;
 }
 
+const sayHello = (name, age) => {
+    console.log(`hello ${name}`)
+}
+
 module.exports = { generateNIK };

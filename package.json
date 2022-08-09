@@ -1,6 +1,6 @@
 {
   "name": "library-afauzi",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "learn-npm-create-sample-library",
   "main": "index.js",
   "scripts": {
